@@ -7,6 +7,7 @@
 </a>
 
 ---
+***SHOUT OUT TO https://github.com/cyberpunkOS/CyberPunkOS for the inspiration for this code***
 
 # OSINT Tools Suite
 
